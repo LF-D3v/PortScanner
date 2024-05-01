@@ -1,2 +1,1 @@
-# PortScanner
-A compact and easy-to-use Port Scanner in Python
+[!Demo GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI3Yzd6OGs3emVyNHdqNGRienB2YjFqZjhrbmMxbTh1Njhyc2UwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/looZtTqpSUm7p86b8O/source.gif)
